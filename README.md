@@ -1,2 +1,2 @@
 # Cryptocurrency
-Cryptocurrency Annalysis
+Cryptocurrency Analysis
