@@ -1,5 +1,5 @@
 # Cryptocurrency
-Cryptocurrency Analysis
+### Cryptocurrency Analysis
 
 
 Our task for this project is to give a report on cryptocurrency. Given some raw information, we classify cryptocurrencies that are trading and has a mining history to create our data set.
@@ -23,6 +23,13 @@ With our filtered cryptocurrency dataframe, we can graph our data.
 ![](/Resources/fig_c4_3d.png)
 
 
-We now have a visual representation of how cryptocurrencis can be grouped for further decision making. This report will help our investors in the development of a new investment product.
+We now have a visual representation of how cryptocurrencies can be grouped for further decision making. This report will help our investors in the development of a new investment product.
+
+
+
+### Resources
+- crypto_data.csv
+- Visual Studio
+- Jupyter Notebook
 
 
